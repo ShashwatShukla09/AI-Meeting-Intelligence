@@ -40,6 +40,13 @@ Meeting recordings are processed locally, converted into structured intelligence
 
 `Python` · `FastAPI` · `n8n` · `Ollama` · `Llama 3` · `Whisper` · `SQLite` · `Docker`
 
+## Documentation
+
+- [Product Decisions](docs/PRODUCT.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Implementation Overview](src/README.md)
+- [Sample Structured Output](src/schemas/meeting_schema.json)
+
 ---
 
 Built as an end-to-end AI product prototype for turning meeting conversations into execution.
