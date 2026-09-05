@@ -4,7 +4,7 @@ Turn meeting conversations into structured, trackable execution.
 
 Upload a meeting recording → extract decisions and actions → review the AI output → distribute approved information → track execution.
 
-[Watch the Demo →](YOUR_LOOM_LINK)
+[Watch the Demo →](https://drive.google.com/file/d/1ZcsBHjGUgey44PymlSizIvNKCBDnWUAB/view?usp=sharing)
 
 ---
 
