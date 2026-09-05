@@ -1,0 +1,31 @@
+{
+  "meeting_title": "Product Launch Readiness Review",
+  "meeting_date": "2026-08-27",
+  "participants": [
+    "Alex",
+    "Priya",
+    "Rachel"
+  ],
+  "executive_summary": "The team reviewed launch readiness, discussed remaining risks, and assigned actions required before release.",
+  "decisions": [
+    "Proceed with the planned release after critical issues are resolved."
+  ],
+  "action_items": [
+    {
+      "task": "Resolve the remaining notification issue",
+      "owner": "Rachel",
+      "deadline": "2026-08-27",
+      "priority": "high",
+      "status": "open"
+    }
+  ],
+  "risks": [
+    "Unresolved notification issue could affect launch readiness."
+  ],
+  "open_questions": [
+    "Is additional testing required before release?"
+  ],
+  "follow_ups": [
+    "Review launch status after the remaining issue is resolved."
+  ]
+}
